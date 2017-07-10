@@ -1,4 +1,4 @@
-# InfluexWP
+# React-Redux boilerplate
 
 ### Getting Started
 1. Clone this repository
